@@ -1,0 +1,24 @@
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\bin\Debug\CC.exe
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\bin\Debug\CC.pdb
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\obj\Debug\CC.csprojAssemblyReference.cache
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\obj\Debug\CC.Form1.resources
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\obj\Debug\CC.Properties.Resources.resources
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\obj\Debug\CC.csproj.GenerateResource.cache
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\obj\Debug\CC.csproj.CoreCompileInputs.cache
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\obj\Debug\CC.exe
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\obj\Debug\CC.pdb
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\obj\Debug\CC.Form2.resources
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\obj\Debug\CC.Form3.resources
+D:\งานตัวเอง\อ.แตง\การบ้าน 3\CC\CC\obj\Debug\CC.Form0.resources
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\bin\Debug\CC.exe
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\bin\Debug\CC.pdb
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\obj\Debug\CC.csprojAssemblyReference.cache
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\obj\Debug\CC.Form0.resources
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\obj\Debug\CC.Form1.resources
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\obj\Debug\CC.Form2.resources
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\obj\Debug\CC.Form3.resources
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\obj\Debug\CC.Properties.Resources.resources
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\obj\Debug\CC.csproj.GenerateResource.cache
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\obj\Debug\CC.csproj.CoreCompileInputs.cache
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\obj\Debug\CC.exe
+D:\งานตัวเอง\อ.แตง\Homework3(Natthawat118)\CC\CC\obj\Debug\CC.pdb
